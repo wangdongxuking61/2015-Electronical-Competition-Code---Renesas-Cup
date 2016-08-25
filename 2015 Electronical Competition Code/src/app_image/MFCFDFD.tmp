@@ -1,0 +1,51 @@
+#ifndef _DEFINE_H
+#define _DEFINE_H
+
+
+/*************************************************************************
+*  模块名称：define模块
+*  功能说明：Include 用户自定义的宏
+*  参数说明：无
+*  函数返回：无
+*  修改时间：2012-2-14
+*************************************************************************/
+//蜂鸣器
+#define buzzer  PTC14_OUT
+//测试时间的IO口
+#define Test_IO PTC14_OUT
+//3个LED灯
+#define _LED1 PTE24_OUT
+#define _LED2 PTE25_OUT
+#define _LED3 PTE26_OUT
+//拨码开关
+#define sw1 PTC6_IN
+#define sw2 PTC7_IN
+#define sw3 PTC8_IN
+#define sw4 PTC9_IN
+#define sw5 PTC10_IN
+#define sw6 PTC11_IN
+#define sw7 PTC12_IN
+#define sw8 PTC13_IN
+#define sw_PORT ((sw8<<7u)+(sw7<<6u)+(sw6<<5u)+(sw5<<4u)+(sw4<<3u)+(sw3<<2u)+(sw2<<1u)+sw1)
+//PWM
+#define MotorEN1        PTA14_OUT
+#define MotorEN2        PTA15_OUT
+#define MotorEN3        PTC2_OUT
+#define DIR1            PTA12_OUT
+#define DIR2            PTA13_OUT
+#define DIR3            PTC1_OUT
+//测速
+//#define SpeedTimeShare  0
+#define Speed_Select_L  PTA17_OUT
+#define Speed_Select_R  PTA16_OUT
+//绝对编码器
+#define DataOut         PTB0_IN
+#define CS_1	        PTB1_OUT=1
+#define CS_0            PTB1_OUT=0
+#define CLK_1           PTB2_OUT=1
+#define CLK_0           PTB2_OUT=0
+
+
+
+
+#endif

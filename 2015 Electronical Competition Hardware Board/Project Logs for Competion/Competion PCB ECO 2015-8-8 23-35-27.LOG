@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LED4 Pin=K1-435
+Removed Pin From Net: NetName=LED4 Pin=P_MCU_4-35
+Added Pin To Net: NetName=LED4 Pin=K1-436
+Added Pin To Net: NetName=LED4 Pin=P_MCU_4-36
+Added Pin To Net: NetName=PA0 Pin=K1-435
+Added Pin To Net: NetName=PA0 Pin=P_MCU_4-35
+Added Net: Name=PA0
