@@ -19,7 +19,7 @@
 ### 上位机<p>
 * 做关于硬件的比赛肯定少不了上位机的辅助，然而一个好的上位机简直是利器<p>
 * 智能车超好用上位机推荐(附C#教程)：http://www.znczz.com/thread-237704-1-1.html<p>
-* 自己开发的上位机源码:https://github.com/wangdongxuking61/C-sharp_PC2MCU_Draw<p>
+* 自己开发的上位机源码：https://github.com/wangdongxuking61/C-sharp_PC2MCU_Draw<p>
 
 ### 执笔人简介（欢迎技术交流）：<p>
 * 本硕学校：大连理工&国防科大<p>
