@@ -8,8 +8,8 @@
 * 谈情怀、技术、公平性等撕逼话题，请转：http://www.znczz.com/thread-105261-1-1.html<p>
 
 ### 目录简介<p>
-* 2015-Electronical-Competition-Code：比赛完整工程代码，使用IAR7.3打开<p>
-* 2015 Electronical Competition Hardware Board：比赛完整硬件工程，含原理图和PCB，使用Altium Designer2014打开<p>
+* 2015-Electronical-Competition-Code：比赛代码工程，使用IAR7.3打开<p>
+* 2015 Electronical Competition Hardware Board：比赛硬件工程，含原理图和PCB，使用Altium Designer2014打开<p>
 * CAD：使用激光雕刻机制作的托盘支架等部件工程图，使用AutoCAD打开<p>
 * 相关资料：相关介绍资料和器件资料<p>
 * pictures：作品的一些照片<p>
