@@ -6,7 +6,7 @@
 * 总结帖：http://www.znczz.com/thread-237701-1-1.html<p>
 * 作品展示视频：http://v.youku.com/v_show/id_XMTY5OTcxODE1Mg==.html?beta&<p>
 * 谈情怀、技术、公平性等撕逼话题，请转：http://www.znczz.com/thread-105261-1-1.html<p>
-* 硬件组成：K60单片机、MPU6050、空心杯电机、BTS79XX系列驱动芯片、山外（原鹰眼）二值化摄像头<p>
+* 硬件组成：K60单片机、MPU6050、空心杯电机、BTS79XX系列驱动芯片、山外（原鹰眼）二值化摄像头等<p>
 
 ### 目录简介<p>
 * 2015-Electronical-Competition-Code：比赛代码工程，使用IAR7.3打开<p>
