@@ -9,7 +9,7 @@
 
 ### 目录简介<p>
 * 2015-Electronical-Competition-Code：比赛完整工程代码，使用IAR7.3打开<p>
-* 2015 Electronical Competition Hardware Board：比赛完整硬件工程，包含原理图和PCB，使用Altium Designer 2014打开<p>
+* 2015 Electronical Competition Hardware Board：比赛完整硬件工程，含原理图和PCB，使用Altium Designer2014打开<p>
 * CAD：使用激光雕刻机制作的托盘支架等部件工程图，使用AutoCAD打开<p>
 * 相关资料：相关介绍资料和器件资料<p>
 * pictures：作品的一些照片<p>
